@@ -1,0 +1,35 @@
+.container {
+  color: green;
+  border: 1px solid red;
+  font-size: 1rem;
+  text-align: center;
+}
+.container h1 {
+  display: inline-block;
+  border-bottom: 1px solid blue;
+}
+.container .section-1 {
+  display: flex;
+  padding: 1em;
+}
+.container .section-1 .blue-color {
+  padding: 2em;
+  color: blue;
+  border: 1px solid green;
+  font-size: 1rem;
+}
+.container .section-1 .red-color {
+  color: red;
+  border: 1px solid green;
+  font-size: 1rem;
+  padding: 2em;
+}
+.container .section-2 {
+  padding: 1em;
+}
+.container .section-2 .green-color {
+  color: green;
+  border: 1px solid blue;
+  font-size: 24px;
+  padding: 2em;
+}/*# sourceMappingURL=style.css.map */
